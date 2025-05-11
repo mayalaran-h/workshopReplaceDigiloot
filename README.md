@@ -1,6 +1,6 @@
 # workshopReplaceDigiloot
 
-Makes the 5th piercing unlockable by replacing a digi-loot in Decima's workshop with a piercing box.
+Makes the 5th piercing unlockable by replacing the digi-loot in Decima's workshop with a piercing box.
 
 ## Requirements
 This mod comes packaged with the [Godot Mod Loader](https://wiki.godotmodding.com/) which is needed for the mod to function. 
