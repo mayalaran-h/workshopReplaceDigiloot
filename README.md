@@ -7,7 +7,7 @@ This mod comes packaged with the [Godot Mod Loader](https://wiki.godotmodding.co
 The appropriate release of the mod loader is included in the <code>addons</code> directory of the mod's release.
 
 ## Installation
-1.	Extract the .zip from the mod's most recent release into the game's base directory. The game's base directory can be located from Steam by <code>right-clicking the game > Manage > Browse local files</code> <br />
+1.	Extract the contents of the mod's most recent .zip release into the game's base directory. The game's base directory can be located from Steam by <code>right-clicking the game > Manage > Browse local files</code> <br />
 	After extraction there should be two new directories: <code>mods</code> and <code>addons</code>. <br />
 2.	Next, add a launch option in Steam by <code>right-clicking the game > Properties > General</code> in the text input box add the following:<br />
 	<code>--script addons/mod_loader/mod_loader_setup.gd</code><br />
